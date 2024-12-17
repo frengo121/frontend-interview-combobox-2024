@@ -18,4 +18,12 @@ export const dropdownData: DropdownDataList = [
     label: "Option 3",
     value: "option3",
   },
+  {
+    label: "Aditional Option 4",
+    value: "option4",
+  },
+  {
+    label: "Test option",
+    value: "option5",
+  },
 ];
